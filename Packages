@@ -1,0 +1,781 @@
+Package: minhhi.icon
+Name: Icon-Repo
+Version: 1.0
+Architecture: iphoneos-arm
+Essential: yes
+Author: @tqmmos
+Maintainer: TQM 
+Section: System
+Description: Gói icon Repo Minh Hí
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.icon
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.icon
+Filename: ./debs/minhhi.icon_1.0_iphoneos-arm.deb
+Size: 76310
+MD5sum: 86a1f0e2c9ca06ea97eb2f0c50fa9d51
+SHA1: 2447cc93bc92d70ca2d979a91738e844b75811c1
+SHA256: e15a742a8bb125eb0a7ead6b41cc50ca5fc4bcfc3c8f29f3f6f9f559bd667212
+
+Package: minhhi.pubg15
+Version: 0.15.0b1
+Section: Pubg
+Maintainer: TQM
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 868
+Name: PUBG Hack v0.15.0
+Description: Hack Pubg
+Author: iosgold
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.pubg15
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.pubg15
+Filename: ./debs/minhhi.pubg15_0.15.0b1_iphoneos-arm.deb
+Size: 227758
+MD5sum: 12c1af4bf0d3111fceafc3962b6b82fc
+SHA1: 278f6839665570a883b6bf3bdd59c62e37dcd7e2
+SHA256: 8437c483d3d852556f1d1180ed72591693e09298ec18fefbfac82b6430c5ab52
+
+Package: minhhi.Redboss
+Version: 1.0
+Description: Themes Anemone - Anemone 3 - Snowboard - iThemer
+Section: Themes TQM
+Maintainer: TQM
+Architecture: iphoneos-arm
+Name: Redboss
+Author: @tqmmos
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.Redboss
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.Redboss
+Filename: ./debs/minhhi.Redboss_1.0_iphoneos-arm.deb
+Size: 36400138
+MD5sum: 0b9d9f48616414619a6b133e5f5104bf
+SHA1: 4de8a9934b9a8019a589240cc74ad1240c67bb54
+SHA256: 865a14e2b67b2baa30a7d5227d559f7083b319d82479d456681e6dcd9f245558
+
+Package: minhhi.aurous
+Name: Aurous Theme
+Author: @tqmmos
+Description: Themes ( Snowboard - Anemone -Anemone 3 - iThemer )
+Maintainer: TQM
+Version: 3.8
+Section: Themes TQM
+Architecture: iphoneos-arm
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.aurous
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.aurous
+Filename: ./debs/minhhi.aurous_3.8_iphoneos-arm.deb
+Size: 1373544
+MD5sum: c99eaebdae2cfefec8ea350ce9a575fb
+SHA1: 5070790fb862ff1d6c1a7149d4f4a03ead47723b
+SHA256: 7492cb1a207515a7bb18deea5589853cc023ead6acbb5cbce38a48575644eb5b
+
+Package: minhhi.blackeagle
+Section: Themes TQM
+Maintainer: TQM
+Version: 2.1.1
+Description: Themes ( Snowboard - Anemone -Anemone 3 - iThemer )
+Name: Black Eagle
+Author: @tqmmos
+Architecture: iphoneos-arm
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.blackeagle
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.blackeagle
+Filename: ./debs/minhhi.blackeagle_2.1.1_iphoneos-arm.deb
+Size: 27148928
+MD5sum: 7cb0a970439347b70815352c03ebef48
+SHA1: 152fa668867e019a990d751848095f7cfae97c43
+SHA256: d593dbfb71e5a28dfcb5bddd3050e428890352df25d1bbafeb2c45f759b5a59c
+
+Package: minhhi.blackhd
+Description: Themes ( Snowboard - Anemone -Anemone 3 - iThemer )
+Version: 1.0-1
+Section: Themes TQM
+Maintainer: TQM
+Architecture: iphoneos-arm
+Name: BlAck HD
+Author: @tqmmos
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.blackhd
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.blackhd
+Filename: ./debs/minhhi.blackhd_1.0-1_iphoneos-arm.deb
+Size: 6225114
+MD5sum: 490fc70b2ff6a1bd1dd395f5a6b85dcc
+SHA1: 5355d4fce3cd76c84c65269c0a2715d4197413c0
+SHA256: 05d015030163eba4d3afe56e6b10b0ae87c9bd53a88cb605e5db888165c80836
+
+Package: minhhi.bossdayios10
+Name: Boss Day iOS10
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes ( Snowboard - Anemone -Anemone 3 - iThemer )
+Maintainer: TQM
+Author: @tqmmos
+Section: Themes TQM
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.bossdayios10
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.bossdayios10
+Filename: ./debs/minhhi.bossdayios10_1.0_iphoneos-arm.deb
+Size: 40027024
+MD5sum: fdc4bd525797e4b7e3e00a2e21f9a480
+SHA1: bf8e45a8af7a2096c62b233f8ee6b221ce60d395
+SHA256: b030be8fbb73a9adc5e31edb0f8e3710db079eac3f4a0631ed4be9bd2baa3420
+
+Package: minhhi.bossios10
+Name: Boss iOS10
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes ( Snowboard - Anemone -Anemone 3 - iThemer )
+Maintainer: TQM
+Author: @tqmmos
+Section: Themes TQM
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.bossios10
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.bossios10
+Filename: ./debs/minhhi.bossios10_1.0_iphoneos-arm.deb
+Size: 48822928
+MD5sum: 5a4eef983e3c47c0dfabeedf60bbbdac
+SHA1: b1b31ce57278d4f10d8f0a2131c408d2105fa6c1
+SHA256: bb008e3c2628cebf1fab6874a6a1242c8818ec1918e4cd9c0ac6f458fe1be179
+
+Package: minhhi.classicios91011
+Description: Themes ( Snowboard - Anemone -Anemone 3 - iThemer )
+Version: 1.2-1
+Section: Themes TQM
+Maintainer: TQM
+Depends: com.anemonetheming.anemone
+Architecture: iphoneos-arm
+Name: Classic iOS 9/10/11
+Author: @tqmmos
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.classicios91011
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.classicios91011
+Filename: ./debs/minhhi.classicios91011_1.2-1_iphoneos-arm.deb
+Size: 13205544
+MD5sum: c0c0174a5acc61685995598708ce3adc
+SHA1: 38e0178f4b9ed3f1582d2c7708c7997bca402c61
+SHA256: f644208c494aee69920c964076fad30c17bcf8d2828df90dd47e05aa471eaa24
+
+Package: minhhi.colorizedos
+Name: ColorizedOS
+Version: 1.1
+Section: Themes TQM
+Architecture: iphoneos-arm
+Author: @tqmmos
+Maintainer: TQM
+Description: Themes ( Snowboard - Anemone -Anemone 3 - iThemer )
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.colorizedos
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.colorizedos
+Filename: ./debs/minhhi.colorizedos_1.1_iphoneos-arm.deb
+Size: 6104202
+MD5sum: 1907850674a53398b8ea30a10707cab6
+SHA1: 800fcb824f69554e9542f7b820b205ae4b531703
+SHA256: e99ce01735d7aa7f44742a6f7f611660416c1a09b9be9861dc5d6e8d0b1c78a1
+
+Package: minhhi.Darkviola
+Name: Viola Dark
+Version: 1.5
+Section: Themes TQM
+Architecture: iphoneos-arm
+Author: @tqmmos
+Maintainer: TQM
+Description: Themes ( Snowboard - Anemone -Anemone 3 - iThemer )
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.Darkviola
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.Darkviola
+Filename: ./debs/minhhi.Darkviola_1.5_iphoneos-arm.deb
+Size: 20838318
+MD5sum: 97b8a954b674aee9896e72f64b7265ad
+SHA1: 1e123cab6801c7a3fdfe46afb99aa8ff4b5a5dfb
+SHA256: 86c801fde16122ee11d8b19942d34e18fe7bb5494e7b265d77e04837732867d5
+
+Package: minhhi.Darkx
+Section: Themes TQM
+Maintainer: TQM
+Architecture: iphoneos-arm
+Version: 2.2.7
+Description: Themes ( Snowboard - Anemone -Anemone 3 - iThemer )
+Name: Darkx
+Author: @tqmmos
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.Darkx
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.Darkx
+Filename: ./debs/minhhi.Darkx_2.2.7_iphoneos-arm.deb
+Size: 16271282
+MD5sum: 63ddb945ad5361b8f53070f626f499b0
+SHA1: a2e2d9441be3bf618d7b5eca2590660b0b83be3b
+SHA256: 8d8db6d03c784fc7ba19fe78d876f2ff62a32a9439b2620ef5f63aeb44c3d0de
+
+Package: minhhi.DeadRed
+Name: DeadRed Theme
+Author: @tqmmos
+Description: Red black icons theme.
+Maintainer: TQM
+Version: 2.3
+Section: Themes TQM
+Architecture: iphoneos-arm
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.DeadRed
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.DeadRed
+Filename: ./debs/minhhi.DeadRed_2.3_iphoneos-arm.deb
+Size: 2787826
+MD5sum: fb3ca9891078e4c0a554ec3529ec9e6e
+SHA1: 935f2a23fbd80165abe9d9e75617073e2b4655a4
+SHA256: 999ef11ac8c9ffae4cf247723155c5bcc4d77baff9ceca4b4df09b8110728f5f
+
+Package: minhhi.doozy
+Version: 1.0
+Section: Themes TQM
+Maintainer: TQM 
+Architecture: iphoneos-arm
+Name: Doozy
+Author: @tqmmos
+Description: Themes ( Snowboard - Anemone -Anemone 3 - iThemer )
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.doozy
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.doozy
+Filename: ./debs/minhhi.doozy_1.0_iphoneos-arm.deb
+Size: 3408448
+MD5sum: 7ce7c023f527485f19ab4db93084b788
+SHA1: 0c84dea63ffc0116b79d4b3f5454e82f78d3ad85
+SHA256: 2c270130fdf8be5ac5302738cc24b3dbf528165db28d355ccaef1895e5ae061a
+
+Package: minhhi.dropsforios
+Section: Themes TQM
+Maintainer: TQM
+Architecture: iphoneos-arm
+Version: 1.0
+Description: Themes ( Snowboard - Anemone -Anemone 3 - iThemer )
+Name: Drops for iOS
+Author: @tqmmos
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.dropsforios
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.dropsforios
+Filename: ./debs/minhhi.dropsforios_1.0_iphoneos-arm.deb
+Size: 2914098
+MD5sum: 684c391981244a5dba285f25243ed344
+SHA1: 04fac8d501360b9351064694ab61aff18b0a05db
+SHA256: fed6355088a0d3ee24b4f4ffc0fc7ca6a499e65d093dc20a9402d227e705f54f
+
+Package: minhhi.Felicity
+Description: Themes ( Snowboard - Anemone -Anemone 3 - iThemer )
+Version: 1.1.1-1
+Section: Themes TQM
+Maintainer: TQM
+Architecture: iphoneos-arm
+Name: Felicity
+Author: @tqmmos
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.Felicity
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.Felicity
+Filename: ./debs/minhhi.Felicity_1.1.1-1_iphoneos-arm.deb
+Size: 9151488
+MD5sum: 723ec4ec516f50fa6ec9ea6926dbbee5
+SHA1: a43c5e332a37c9ab9b4cee53e99b48f67b789269
+SHA256: 8aff4f376aea2c59728991d76bb6fff27fe3113d2348874d5e5e73912a81fd7e
+
+Package: minhhi.goldi
+Section: Themes TQM
+Maintainer: TQM
+Architecture: iphoneos-arm
+Version: 1.0.1
+Description: Themes ( Snowboard - Anemone -Anemone 3 - iThemer )
+Name: GoLdi
+Author: @tqmmos
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.goldi
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.goldi
+Filename: ./debs/minhhi.goldi_1.0.1_iphoneos-arm.deb
+Size: 9093352
+MD5sum: cc28e8715d2c1345244aa8dadb4da3df
+SHA1: 72e40f727d5830934ff2af6c74f4e089d5224e55
+SHA256: 339c22ca5fd2159f4c592ec53ce70d67657423b33d7b827d0de74abf4a332723
+
+Package: minhhi.GreenLit
+Description: Themes ( Snowboard - Anemone -Anemone 3 - iThemer )
+Version: 1.0
+Section: Themes TQM
+Maintainer: TQM
+Architecture: iphoneos-arm
+Name: GreenLit
+Author: @tqmmos
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.GreenLit
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.GreenLit
+Filename: ./debs/minhhi.GreenLit_1.0_iphoneos-arm.deb
+Size: 3130698
+MD5sum: f6246967b56825efb535f09b2fcf14e4
+SHA1: 460ea6d3d209636cf7a27f059a11de3c8034202e
+SHA256: e186b9fa4c78ce521bb3ea19f0cafe46d7c236ad3174c460ca7d710471a0d39c
+
+Package: minhhi.horus
+Section: Themes TQM
+Maintainer: TQM
+Architecture: iphoneos-arm
+Version: 0.3
+Description: Themes ( Snowboard - Anemone -Anemone 3 - iThemer )
+Name: Horus
+Author: @tqmmos
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.horus
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.horus
+Filename: ./debs/minhhi.horus_0.3_iphoneos-arm.deb
+Size: 58311688
+MD5sum: 3fa1e1c4ee1c461ac3757f00d8bc5a80
+SHA1: 8e3ffab46e789683a6d0814b5440cdc937ad411f
+SHA256: 490f2cbd30bac0c9ad636b4d3e1510f24e943f518468b49dc5cf06d4adfe9145
+
+Package: minhhi.merlen
+Section: Themes TQM
+Maintainer: TQM
+Architecture: iphoneos-arm
+Version: 1.4
+Description: Themes ( Snowboard - Anemone -Anemone 3 - iThemer )
+Name: Merlen
+Author: @tqmmos
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.merlen
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.merlen
+Filename: ./debs/minhhi.merlen_1.4_iphoneos-arm.deb
+Size: 5037746
+MD5sum: 05480cfe6d6ef4d986299af3f6fc8814
+SHA1: 5d22d6f373379a53741b1aa919d924fc5fe25977
+SHA256: 093f39f04f9d93efce365c89a7adf2e4ec7674b30f289f284ae0a7430d265780
+
+Package: minhhi.Neon
+Version: 1.0
+Description: Themes ( Snowboard - Anemone -Anemone 3 - iThemer )
+Section: Themes TQM
+Maintainer: TQM
+Architecture: iphoneos-arm
+Name: Neon
+Author: @tqmmos
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.Neon
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.Neon
+Filename: ./debs/minhhi.Neon_1.0_iphoneos-arm.deb
+Size: 19023982
+MD5sum: 4f8fb94bb78a10557f233449623b89fa
+SHA1: c84a53215ce1ffba5b914523b0da42b2d58df0aa
+SHA256: d225312c5cea53de688263459734f666f9a472c919e6ea8b0f28a2d80cce3410
+
+Package: minhhi.NewGlyph
+Section: Themes TQM
+Maintainer: TQM
+Architecture: iphoneos-arm
+Version: 1.4
+Description: Themes ( Snowboard - Anemone -Anemone 3 - iThemer )
+Name: NewGlyph
+Author: @tqmmos
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.NewGlyph
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.NewGlyph
+Filename: ./debs/minhhi.NewGlyph_1.4_iphoneos-arm.deb
+Size: 8076278
+MD5sum: 28c2f844e7395ea89eee7e09dc8471f1
+SHA1: a4e0faf94475edc2b9e8cfcd33cf706a16e9f85e
+SHA256: df5aae9e33d75d34c69160735ddb2b5bd816768ace7fdc70a6662973e355f025
+
+Package: minhhi.raya
+Version: 1.1
+Description: Themes ( Snowboard - Anemone -Anemone 3 - iThemer )
+Section: Themes TQM
+Maintainer: TQM
+Architecture: iphoneos-arm
+Name: Raya
+Author: @tqmmod
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.raya
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.raya
+Filename: ./debs/minhhi.raya_1.1_iphoneos-arm.deb
+Size: 1006330
+MD5sum: ba0672242d91d44e31c86b6902d6ca3f
+SHA1: 8c32249fe963eb8b382434788489aeaa1ada0f82
+SHA256: 84d13e1091bec662f7d463ff5b7dadf70b01ff6cbb68d12601716d213ae4d6da
+
+Package: minhhi.reddead
+Section: Themes TQM
+Maintainer: TQM
+Architecture: iphoneos-arm
+Version: 1.1.8
+Description: Themes ( Snowboard - Anemone -Anemone 3 - iThemer )
+Name: RedDead
+Author: @tqmmos
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.reddead
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.reddead
+Filename: ./debs/minhhi.reddead_1.1.8_iphoneos-arm.deb
+Size: 4180084
+MD5sum: 3f127268b207074994db80cea280de8b
+SHA1: 9b01f72ed59de088247e750915e838fdc4c7e379
+SHA256: 25b6f88cdf4e94de133116459004404fd91c80d2fe3f593f8355c3689bb04009
+
+Package: minhhi.retina
+Name: Retina Theme
+Author: @tqmmos
+Description: Themes ( Snowboard - Anemone -Anemone 3 - iThemer )
+Maintainer: TQM
+Version: 1.4
+Section: Themes TQM
+Architecture: iphoneos-arm
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.retina
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.retina
+Filename: ./debs/minhhi.retina_1.4_iphoneos-arm.deb
+Size: 27693684
+MD5sum: 7d57404bdb5836412f08a4c7e1153215
+SHA1: 3f795ee18e16ff52ca8a17a99037ebc55ea062dd
+SHA256: 0426105302120a524f55a5b47c3bace609ac35f6b248bbccaf3b7eb15085fb0f
+
+Package: minhhi.SilverWare
+Name: SilverWare
+Version: 1.0
+Section: Themes TQM
+Architecture: iphoneos-arm
+Author: @tqmmos
+Maintainer: @tqmmos
+Description: Themes ( Snowboard - Anemone -Anemone 3 - iThemer )
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.SilverWare
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.SilverWare
+Filename: ./debs/minhhi.SilverWare_1.0_iphoneos-arm.deb
+Size: 29862520
+MD5sum: b803325be644d57ef1b2f2e9f87c3de0
+SHA1: efe28ce1a927d33e1488578b5638213fe5eac257
+SHA256: 925ec826a2b9ffe4323f0455df4be1169c6ad9706905fcbf5098a4c3be328dff
+
+Package: minhhi.Spearmint
+Description: Themes ( Snowboard - Anemone -Anemone 3 - iThemer )
+Version: 1.0
+Section: Themes TQM
+Maintainer: TQM
+Architecture: iphoneos-arm
+Name: Spearmint
+Author: @tqmmos
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.Spearmint
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.Spearmint
+Filename: ./debs/minhhi.Spearmint_1.0_iphoneos-arm.deb
+Size: 48302078
+MD5sum: 92686ff376910d7d71d81bb55facef3c
+SHA1: a37587f99191f814ac79b7e9f0ec75e2b4297478
+SHA256: f6465cf988fbd3b78e18f963a34dd30f47a649d237e369f477a169b474f657d0
+
+Package: minhhi.TheBlues
+Name: TheBlues Theme
+Author: @tqmmos
+Description: Themes ( Snowboard - Anemone -Anemone 3 - iThemer )
+Maintainer: TQM
+Version: 2.2
+Section: Themes TQM
+Architecture: iphoneos-arm
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.TheBlues
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.TheBlues
+Filename: ./debs/minhhi.TheBlues_2.2_iphoneos-arm.deb
+Size: 4373762
+MD5sum: 91ef5bdc9fdf42de1136a01bbcaaa107
+SHA1: 0b8d0976313f9be85e25cf5659ffe21c1579c8d4
+SHA256: 6a6a2dd29426e343eb134a824438ed419a1fd2d81bc55b36b092b14a7f236fac
+
+Package: minhhi.yomiraforios
+Section: Themes TQM
+Maintainer: TQM
+Architecture: iphoneos-arm
+Version: 1.0
+Description: Themes ( Snowboard - Anemone -Anemone 3 - iThemer )
+Name: Yomira for iOS
+Author: @tqmmos
+Icon: file:///Library/Themes/Yomira for iOS.theme/Icon.png
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.yomiraforios
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.yomiraforios
+Filename: ./debs/minhhi.yomiraforios_1.0_iphoneos-arm.deb
+Size: 2863556
+MD5sum: 13cbcee1eae802c49dc5c78ca534ae32
+SHA1: 73d6bc45a769b1fa53c531c99036c058a59770f0
+SHA256: edf29c39a71036278e2acfb1343f58cb93bda38ebfcf64d408532b6b83c85f34
+
+Package: minh.stackspro
+Version: 1.0
+Section: Themes TQM
+Maintainer: TQM <devmos388373@gmail.com>
+Architecture: iphoneos-arm
+Name: StacksPro
+Author: @tqmmos
+Description: Themes ( Snowboard - Anemone - Anemone 3 - iThemer )
+Depiction: http://club89-minhhi.github.io/description.html?id=minh.stackspro
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minh.stackspro
+Filename: ./debs/minh.stackspro_1.0_iphoneos-arm.deb
+Size: 8257094
+MD5sum: 32454b685239e1333f268093dec62826
+SHA1: e029749bc7765b420346501d33033b0fa18f14f7
+SHA256: 509f2df61c69aab53b86c86eee4bc60516336927122fd0429d730d8dfe5c3cc6
+
+Name: Angel Black Gold
+Package: minhhi.AngelBlackGold
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes ( Snowboard - Anemone - Anemone 3 - iThemer )
+Maintainer: TQM
+Author: @tqmmos
+Section: Themes TQM
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.AngelBlackGold
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.AngelBlackGold
+Filename: ./debs/minhhi.AngelBlackGold_1.0_iphoneos-arm.deb
+Size: 4938712
+MD5sum: 3aaeabd4a960c045cd2a02a139681e32
+SHA1: d8de2f46e972673bfe028fecbb3ff545277baf3d
+SHA256: cbfbba47cf4607cbc1f83f5134a73dc3c64c14563e725e47cfcad824c723b373
+
+Name: BlackOrs 4
+Package: minhhi.BlackOrs4
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes ( Snowboard - Anemone - Anemone 3 - iThemer )
+Maintainer: TQM
+Author: @tqmmos
+Section: Themes TQM
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.BlackOrs4
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.BlackOrs4
+Filename: ./debs/minhhi.BlackOrs4_1.0_iphoneos-arm.deb
+Size: 28397702
+MD5sum: 6c3084a2bb52f870218d4dbeff6cc171
+SHA1: ddcbeb42754b8228f0be6c40e548097b91f5dfef
+SHA256: 9144a1105358a177c21982e8b5d339ed2ba1982f5064955c4c6263f4450c63a7
+
+Name: Chalkboard
+Package: minhhi.Chalkboard
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes ( Snowboard - Anemone - Anemone 3 - iThemer )
+Maintainer: TQM
+Author: @tqmmos
+Section: Themes TQM
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.Chalkboard
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.Chalkboard
+Filename: ./debs/minhhi.Chalkboard_1.0_iphoneos-arm.deb
+Size: 24594652
+MD5sum: 5a47137615a30125641da5c2f2723eb7
+SHA1: 7ee3b569b8761381348f9dc3481e79b127b98d4e
+SHA256: bc651643d1e7808a7326fea6240a7bd10987e84cf859a9dce9c151fcbfa9d4c6
+
+Name: Classic Themes
+Package: minhhi.classicthemes
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes ( Snowboard - Anemone - Anemone 3 - iThemer )
+Maintainer: TQM
+Author: @tqmmos
+Section: Themes TQM
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.classicthemes
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.classicthemes
+Filename: ./debs/minhhi.classicthemes_1.0_iphoneos-arm.deb
+Size: 6490024
+MD5sum: 157f41c51f2f5b0fbd6fe9eb42d418c2
+SHA1: 900a7e292c3af591fa00b4729175ef3987851fea
+SHA256: f495fb728d32a4e9ea2d09eae07826e9055d369e125102818a7d5eb9b22fc3a0
+
+Name: Cobalt
+Package: minhhi.Cobalt
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes ( Snowboard - Anemone - Anemone 3 - iThemer )
+Maintainer: TQM
+Author: @tqmmos
+Section: Themes TQM
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.Cobalt
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.Cobalt
+Filename: ./debs/minhhi.Cobalt_1.0_iphoneos-arm.deb
+Size: 21036744
+MD5sum: b3fc034e38b91e61d5fae49847451d89
+SHA1: 03a84103e2fb5b8a29059e1fded5eec1d1148317
+SHA256: ea9b33838523c46395581c24278986459ba8428a44745eb04342e5d51787f819
+
+Name: Coral Blue 3.0
+Package: minhhi.coralblue30
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes ( Snowboard - Anemone - Anemone 3 - iThemer )
+Maintainer: TQM
+Author: @tqmmos
+Section: Themes TQM
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.coralblue30
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.coralblue30
+Filename: ./debs/minhhi.coralblue30_1.0_iphoneos-arm.deb
+Size: 18668056
+MD5sum: b8550d16f2827d0e630b88602c235a3e
+SHA1: 5930f5bc5cdfc034669bed7a87f7d1606cdb5ef2
+SHA256: 211ce9f67d1e930ac327ea3e7c3b0a52b8bc8c5ae41dbdb82a13aca52f88a0a1
+
+Name: Coral Gold 3.0
+Package: minhhi.coralgold30
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes ( Snowboard - Anemone - Anemone 3 - iThemer )
+Maintainer: TQM
+Author: @tqmmos
+Section: Themes TQM
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.coralgold30
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.coralgold30
+Filename: ./debs/minhhi.coralgold30_1.0_iphoneos-arm.deb
+Size: 14280044
+MD5sum: 168bceadd46e1e3010e7a61f7d49ed27
+SHA1: fc6e929d51201233229238b4cffd406e442b8aff
+SHA256: dcaec5bce6861b216c2a8d78fe6a31dcb0288c54deef04e275f95b416e4cc28e
+
+Name: Coral GrayMod 3.0
+Package: minhhi.coralgraymod30
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes ( Snowboard - Anemone - Anemone 3 - iThemer )
+Maintainer: TQM
+Author: @tqmmos
+Section: Themes TQM
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.coralgraymod30
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.coralgraymod30
+Filename: ./debs/minhhi.coralgraymod30_1.0_iphoneos-arm.deb
+Size: 12912484
+MD5sum: 883717be564845a18bc58cf0ed6251b0
+SHA1: f9c35b6a26f348a61e14fd33c0ad9cf401578fbd
+SHA256: d80077a3dbc41e84ae327a6c6842d7a9e22291c3467667307655bdbe6ef5e9b3
+
+Name: Coral Green 3.0
+Package: minhhi.coralgreen30
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes ( Snowboard - Anemone - Anemone 3 - iThemer )
+Maintainer: TQM
+Author: @tqmmos
+Section: Themes TQM
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.coralgreen30
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.coralgreen30
+Filename: ./debs/minhhi.coralgreen30_1.0_iphoneos-arm.deb
+Size: 20472934
+MD5sum: ce8f8d0a21e19c94a41494706331ed3a
+SHA1: f2849358d54e15c2a92f22967d9aa91231efad08
+SHA256: 8abd9a3d3b0c8c569bb3a3119ae9d31744576227b651cfe45b87863df7a6c116
+
+Name: Coral Mix 3.0
+Package: minhhi.coralmix30
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes ( Snowboard - Anemone - Anemone 3 - iThemer )
+Maintainer: TQM
+Author: @tqmmos
+Section: Themes TQM
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.coralmix30
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.coralmix30
+Filename: ./debs/minhhi.coralmix30_1.0_iphoneos-arm.deb
+Size: 18361640
+MD5sum: 001bea44fd14cecb92a8aceb4305a2d9
+SHA1: a02d510987f618047f973bf4127d472f2a6a4d2c
+SHA256: d69af5a8e1eb6fd88ef11854366ddbe7bcdbbfd9cb0ce77516112fe0ac728727
+
+Name: Coral Reb 3.0
+Package: minhhi.coralred30
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes ( Snowboard - Anemone - Anemone 3 - iThemer )
+Maintainer: TQM
+Author: @tqmmos
+Section: Themes TQM
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.coralred30
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.coralred30
+Filename: ./debs/minhhi.coralred30_1.0_iphoneos-arm.deb
+Size: 18731828
+MD5sum: 9661c89994ed4a23b0717245954b4aff
+SHA1: 85b114e94ce16d1af44daf1a3939df3d4daff36f
+SHA256: a56bceafada69cd1fd999e6880858210d4d96c1317ce1ee15b570cc977e1e507
+
+Name: Coral Teal 3.0
+Package: minhhi.coralteal30
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes ( Snowboard - Anemone - Anemone 3 - iThemer )
+Maintainer: TQM
+Author: @tqmmos
+Section: Themes TQM
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.coralteal30
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.coralteal30
+Filename: ./debs/minhhi.coralteal30_1.0_iphoneos-arm.deb
+Size: 19610726
+MD5sum: e7148fb42e69021eb7c92b7207546c12
+SHA1: f312544a65720b5eccccec3cb236b56337d6329b
+SHA256: 71cc4f5cb2c49b96fab331667a768b955d039dfc3cc992e8df7c1ea88240671c
+
+Name: Coral White 3.0
+Package: minhhi.coralwhite30
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes ( Snowboard - Anemone - Anemone 3 - iThemer )
+Maintainer: TQM
+Author: @tqmmos
+Section: Themes TQM
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.coralwhite30
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.coralwhite30
+Filename: ./debs/minhhi.coralwhite30_1.0_iphoneos-arm.deb
+Size: 18913010
+MD5sum: 43b162f1a13acd870912a552a09a7cb0
+SHA1: e4357f6e9f4159eafe68237507cf1a93a9794ef7
+SHA256: 3d57a7a2a8c291b7df7d7e63bf5349241762d5389720f34d2d6274fe9ac0bb06
+
+Name: IOS 6 - Mos
+Package: minhhi.ios6mos
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes ( Snowboard - Anemone - Anemone 3 - iThemer )
+Maintainer: TQM
+Author: @tqmmos
+Section: Themes TQM
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.ios6mos
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.ios6mos
+Filename: ./debs/minhhi.ios6mos_1.0_iphoneos-arm.deb
+Size: 18930298
+MD5sum: 8a79d62a2bd7c6489217c8b751bc575d
+SHA1: ad7b3a961e56399e51dff7b950eb22acac563d03
+SHA256: f15c3f8974d954d07761450fda16582b8c3b16d90cf5f1219524ed1046aa4907
+
+Name: Litt13
+Package: minhhi.Litt13
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes ( Snowboard - Anemone - Anemone 3 - iThemer )
+Maintainer: TQM
+Author: @tqmmos
+Section: Themes TQM
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.Litt13
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.Litt13
+Filename: ./debs/minhhi.Litt13_1.0_iphoneos-arm.deb
+Size: 7899112
+MD5sum: f79799aa926e842e2749453257a4b6f1
+SHA1: aa6f3503b96657edd2bb7b5d984e3ed064cf08cf
+SHA256: 42066179f96fbb22273ce67d22a908e58056384f80d3f7f49d44d39d13c8ec0e
+
+Name: Mocha
+Package: minhhi.mocha
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes ( Snowboard - Anemone - Anemone 3 - iThemer )
+Maintainer: TQM
+Author: @tqmmos
+Section: Themes TQM
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.mocha
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.mocha
+Filename: ./debs/minhhi.mocha_1.0_iphoneos-arm.deb
+Size: 31483776
+MD5sum: 58516b285134b52c8e5ab0ad6cf9a393
+SHA1: 5f9be5b75a4f1c2281b3d644c5fc08662968b7bc
+SHA256: 3411328e9a1272415805ab6ecde0b00aee2561b2576989b60ed0851dae8c45e4
+
+Name: Mystic Glyphs
+Package: minhhi.MysticGlyphs
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes ( Snowboard - Anemone - Anemone 3 - iThemer )
+Maintainer: TQM
+Author: @tqmmos
+Section: Themes TQM
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.MysticGlyphs
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.MysticGlyphs
+Filename: ./debs/minhhi.MysticGlyphs_1.0_iphoneos-arm.deb
+Size: 4017772
+MD5sum: 642d841da7a311498cb39bc38778bb39
+SHA1: da8466b845102ffc0aff9c368e1806f02b942632
+SHA256: 304775261050cfe52e9f8da470a53907c77b302d944b03bb2742f67b148383a1
+
+Name: Raspberry
+Package: minhhi.Raspberry
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Themes ( Snowboard - Anemone - Anemone 3 - iThemer )
+Maintainer: TQM
+Author: @tqmmos
+Section: Themes TQM
+Depiction: http://club89-minhhi.github.io/description.html?id=minhhi.Raspberry
+SileoDepiction: http://club89-minhhi.github.io/description.html?id=minhhi.Raspberry
+Filename: ./debs/minhhi.Raspberry_1.0_iphoneos-arm.deb
+Size: 15625360
+MD5sum: ec067e6f907051b3de18e5dba3c17bbb
+SHA1: 7f10bf98038160925b8f7af3f284747cbec83493
+SHA256: 7b825363f2c06f61f2adcf5d455396a59f9ccb9ab07e5ca722d3ec656de2f296
+
+
+
+
+
+
+
+
+
