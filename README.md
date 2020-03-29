@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html><head>
 <link href="JS/styles.css" rel="stylesheet">
-<title>Repo by TQM-Mos (Minh Hi)</title>
+<title>Repo by iPA-Store (Anh Tuan)</title>
 <meta name='viewport' content='width=320; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;'/>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 </head>
@@ -14,22 +14,22 @@
 		</div></a>
 	</fieldset>
 	<fieldset>
-		<a class="btn btn-sm btn-default" href="cydia://url/https://cydia.saurik.com/api/share#?source=http://club89-minhhi.github.io/">
+		<a class="btn btn-sm btn-default" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://ipa-store.ml/">
 				    <p style="text-align:center;"><img class="icon" src="Mos/cydia.png"/>
 <p style="text-align:center;"><mark><strong><marquee behavior="alternate" width="10%"></marquee>Add Source Cydia<marquee behavior="alternate" width="10%"></marquee>
-		<a href="sileo://source/https://club89-minhhi.github.io/">
+		<a href="sileo://source/https://ipa-store.ml/">
 					<p style="text-align:center;"><img class="icon" src="Mos/sileo.png"/>
 <p style="text-align:center;"><mark><strong><marquee behavior="alternate" width="10%"></marquee>Add Source Sileo<marquee behavior="alternate" width="10%"></marquee>
 		</div></a>
 	</fieldset>
 	<fieldset>
-<p style="text-align:center;"><a href="https://www.facebook.com/quangminhdx" target="_blank">
+<p style="text-align:center;"><a href="https://www.facebook.com/tuanems" target="_blank">
 			<img class="icon" src="Mos/fb.png"/>
 			<label>Facebook</label>
 		</div></a>
 	</fieldset>
 	<fieldset>
-<p style="text-align:center;"><a href="https://twitter.com/tqmmos" target="_blank">
+<p style="text-align:center;"><a href="https://twitter.com/m4umebebet" target="_blank">
 			<img class="icon" src="Mos/twitter.png"/>
 			<label>Twitter</label>
 		</div></a>
@@ -41,9 +41,9 @@
 		</div></a>
 	</fieldset>
 	<fieldset>
-<p style="text-align:center;"><a href="https://www.facebook.com/quangminhdx" target="_blank">
+<p style="text-align:center;"><a href="https://www.facebook.com/tuanems" target="_blank">
 			<img class="icon" src="Mos/momo.png"/>
-			<label>MoMo/0868388373</label>
+			<label>MoMo/0985225273</label>
 	   	</div></a>
 	</fieldset>
     <fieldset>
@@ -55,19 +55,19 @@
 		</div></a>
 	</fieldset>
 	<fieldset>
-<p style="text-align:center;"><a href="https://tqm-mos.github.io/TQM/ios13.mobileconfig">
+<p style="text-align:center;"><a href="https://ipa-store.ml/TQM/ios13.mobileconfig">
 			<img class="icon" src="Mos/iosbeta.png"/>
 			<label>IOS Beta</label>
 		</div></a>
 	</fieldset>
 	<fieldset>
-<p style="text-align:center;"><a href="https://tqm-mos.github.io/TQM/tvOS_12_Beta_Profile.mobileconfig">
+<p style="text-align:center;"><a href="https://ipa-store.ml/TQM/tvOS_12_Beta_Profile.mobileconfig">
 			<img class="icon" src="Mos/iosbeta.png"/>
 			<label>Chặn Update IOS</label>
 		</div></a>
 	</fieldset>
     <fieldset>
-	<p style="text-align:center;"><a href="https://tqm-mos.github.io/TQM/chplay.mobileconfig">
+	<p style="text-align:center;"><a href="https://ipa-store.ml/TQM/chplay.mobileconfig">
 			<img class="icon" src="Mos/chplay.png"/>
 			<label>CH Play</label>
 		</div></a>
@@ -75,9 +75,8 @@
     </fieldset>
         </panel>
 			<fieldset class="footer">
-				<label>Copyright © 2018 Tqm-Mos</label><img class="icon" src="CydiaIcon.png"/>
+				<label>Copyright © 2018 iPA-Store</label><img class="icon" src="CydiaIcon.png"/>
 			</fieldset>
 		</panel>
 	</body>
 </html>
-
